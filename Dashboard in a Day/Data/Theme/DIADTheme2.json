@@ -1,0 +1,7 @@
+{
+    "name": "Microsoft Logo Colors",
+    "dataColors": ["#ffbb00", "#7cbb00", "#00a1f1", "#f65314"],
+    "background":"#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#c2c2c2"
+}
